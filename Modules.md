@@ -3,7 +3,7 @@
 * Backend not mandatory, but it needs to be in PHP
 * Database not mandatory
 * Frontend should be in TypeScript
-* Site should be a [[https://en.wikipedia.org/wiki/Single-page_application|Single page application]]
+* Site should be a [Single page application](https://en.wikipedia.org/wiki/Single-page_application)
 * There shouldn't be errors or warnings
 * Site must be dockeriezd
 * Third party libraries or tools can't solve any entire module by themselves
